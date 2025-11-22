@@ -25,7 +25,11 @@ x=bot.linalg.solve(a,b)
 print(x)
 ```
 ## Output:
+
 <img width="1920" height="1080" alt="Screenshot 2025-11-22 141158" src="https://github.com/user-attachments/assets/f4b74b81-61f5-49e8-a2b5-a3f459cbbb9e" />
+
+
 ## Result: 
+
 Thus the solutions for the linear equations are successfully solved using python program
 
